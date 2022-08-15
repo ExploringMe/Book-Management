@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/BookShopProj_SE150555">
+    <Resource name= "DBCon" auth="Container" type="javax.sql.DataSource"
+                username="choids" password="123"
+                driverClassName= "com.microsoft.sqlserver.jdbc.SQLServerDriver"
+              url="jdbc:sqlserver://localhost:1433;databaseName=BookShopManagement">
+    </Resource>
+</Context>
